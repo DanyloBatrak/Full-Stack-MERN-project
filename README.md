@@ -1,1 +1,1 @@
-# project-1
+# Full Stack MERN project
